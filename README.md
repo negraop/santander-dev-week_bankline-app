@@ -1,27 +1,29 @@
-# BanklineApp
+# Santader Dev Week + DIO 2022 - App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<br />
 
-## Code scaffolding
+## Frontend da aplicação de movimentação financeira
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este repositório contém o frontend da aplicação que foi desenvolvida durante a Santander Dev Week, no qual contém um SPA (Single Page Application) desenvolvido em Angular de movimentação financeira que realiza as seguintes funções:
+* Inserir, consultar e deletar correntistas;
+* Inserir e consultar transações financeiras.
 
-## Build
+<br />
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Links Úteis
 
-## Running unit tests
+### URL do Heroku contendo a documentação das APIs utilizando Swagger
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+[APIs da Aplicação](https://negraop-bankline-api.herokuapp.com/swagger-ui/index.html)
 
-## Running end-to-end tests
+### Repositório backend da aplicação Bankline
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+[Backend](https://github.com/negraop/santander-dev-week_bankline-api)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
