@@ -19,9 +19,9 @@ Este repositório contém o frontend da aplicação que foi desenvolvida durante
 
 ## Links Úteis
 
-### URL do Heroku contendo a documentação das APIs utilizando Swagger
+### URL do Heroku contendo a aplicação
 
-[APIs da Aplicação](https://negraop-bankline-api.herokuapp.com/swagger-ui/index.html)
+[Aplicação](https://negraop-bankline-app.herokuapp.com)
 
 ### Repositório backend da aplicação Bankline
 
