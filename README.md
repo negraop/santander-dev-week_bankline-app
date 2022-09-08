@@ -26,4 +26,3 @@ Este repositório contém o frontend da aplicação que foi desenvolvida durante
 ### Repositório backend da aplicação Bankline
 
 [Backend](https://github.com/negraop/santander-dev-week_bankline-api)
-
